@@ -10,4 +10,5 @@ Introduction
 
 Data
   The data that will be used in this notebook will come from FourSquare's location data and a json file containing New York's location data 
-  containing geographical coordinates, the boroughs, and neighborhoods.   
+  containing geographical coordinates, the boroughs, and neighborhoods. The data from the FourSquare will be used to gather all the 
+  venues in Brooklyn. New Yorks location data will be used to get information about geographical coordinates and neighborhoods in NY.
