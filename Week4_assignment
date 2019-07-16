@@ -1,0 +1,13 @@
+Introduction
+	Client A has been living in Flushing, Queens for most of his life. 
+  Client A has recently decided that he wants to move to Brooklyn and be closer to his work. Client A however, wants to make sure that
+  the neighborhood in his new home is like that of his current one in Flushing, Queens. Client A does not care about the demographics, 
+  but solely the vast number of restaurants/bars he was accustomed to in Flushing. 
+	We will be using location data from Foursquare to find the store types in his current neighborhood and the neighborhoods in Brooklyn.
+  We will find the stores around the many neighborhoods in Brooklyn and compare it to that of Client A’s current neighborhood (Flushing).
+  We will cluster the neighborhoods in Brooklyn according to the store types. 
+  The Brooklyn neighborhoods that has the greatest number of Restaurants & Bars will influence Client A’s new address. 
+
+Data
+  The data that will be used in this notebook will come from FourSquare's location data and a json file containing New York's location data 
+  containing geographical coordinates, the boroughs, and neighborhoods.   
